@@ -8,6 +8,8 @@
 //     angka++
 // }
 
+// do while
+
 const days = ["senin", 'selasa', 'rabu']
 
 days.forEach(element => {
