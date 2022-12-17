@@ -10,6 +10,9 @@ const person = {
 
 // object membuat object baru
 const person3 = new Object()
+person3.name = 'aku'
+
+console.log(person3)
 
 console.log(person.sayHello())
 

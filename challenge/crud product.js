@@ -16,6 +16,16 @@ function GetAll() {
         console.log(iterator)
     }
 }
+//haiii fuk
+//kenalin nama aku qori
+//kok asuuu
+// yang riliii
+//salam pergerakan fuk
+//kalau ada sumur diladang bole kita menumpang mandi
+//kalau ada umur yang panjang bolee kita berjumpa lagi
+//terimakasi
+//kopi pait jangan di minum
+//saya pamit assalamualaikum
 
 Create(1, 'Sabuun')
 Create(2, 'Sapuu')
@@ -59,7 +69,6 @@ console.log('\n===== Delete id: 1 =====')
 Delete(1);
 
 GetAll()
-
 
 console.log('\n===== Get by id: 3 =====')
 const getById = GetById(3)
